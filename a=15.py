@@ -1,0 +1,5 @@
+int(1.75)
+a=input("Ingrese peso ")
+b=input("Ingrese altura ")
+print("tu peso es ",a)
+print("Tu altura es ",str(b))
